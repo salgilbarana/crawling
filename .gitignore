@@ -1,0 +1,5 @@
+# result data for crawling
+*.txt
+
+# vscode setting file
+.vscode
